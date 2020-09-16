@@ -1,0 +1,38 @@
+[
+{
+    "id":2,
+    "name":"Avondale Brewing Co",
+    "country":"United States",
+    "website_url":"http://www.avondalebrewing.com"
+},
+{
+    "id":44,
+    "name":"Trim Tab Brewing",
+    "country":"United States",
+    "website_url":"http://www.trimtabbrewing.com"
+},
+{
+    "id":46,
+    "name":"Yellowhammer Brewery",
+    "country":"United States",
+    "website_url":"http://www.yellowhammerbrewery.com"
+},
+{
+    "id":55,
+    "name":"Bearpaw River Brewing Co",
+    "country":"United States",
+    "website_url":"http://bearpawriverbrewing.com"
+},
+{
+    "id":76,
+    "name":"King Street Brewing Co",
+    "country":"United States",
+    "website_url":"http://www.kingstreetbrewing.com"
+},
+{
+    "id":94,
+    "name":"1912 Brewing",
+    "country":"United States",
+    "website_url":"http://www.1912brewing.com"
+}
+]
